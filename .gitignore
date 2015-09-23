@@ -1,0 +1,29 @@
+obj
+node_modules
+bower_components
+/.ntvs_analysis.dat
+/.ntvs_analysis.dat.tmp
+/bin/Microsoft.NodejsTools.WebRole.dll
+/client/stylesheets/style.css
+/*.db
+/client/components
+/*.log
+development.json
+production.json
+test.json
+connectivity.json
+certs
+/WebEssentials-Settings.json
+node-v*
+.idea
+*.tar*
+/server/config/test.json
+.directory
+*~
+__pycache__/
+*.pyc
+
+# Database directory
+/_db/
+# Where files are stored for temporary sync instances
+/_data/
